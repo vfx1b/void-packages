@@ -1,7 +1,7 @@
 # Template file for 'qt6-quick3d'
 pkgname=qt6-quick3d
 version=6.6.0
-revision=1
+revision=2
 build_style=cmake
 hostmakedepends="perl qt6-declarative-host-tools qt6-shadertools"
 makedepends="qt6-base-devel qt6-declarative-devel qt6-shadertools-devel

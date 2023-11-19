@@ -1,7 +1,7 @@
 # Template file for 'qt6-3d'
 pkgname=qt6-3d
 version=6.6.0
-revision=1
+revision=2
 build_style=cmake
 hostmakedepends="perl qt6-declarative-host-tools"
 makedepends="qt6-declarative-devel qt6-shadertools-devel libassimp-devel"
